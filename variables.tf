@@ -3,7 +3,7 @@
 variable "myname" {
   description = "Your name to use in the Resource naming"
   type        = string
-  default     = "Slim Shady"
+  default     = "SlimShady"
 }
 
 variable "location" {
